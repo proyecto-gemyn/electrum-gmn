@@ -5,7 +5,7 @@ We have created our version for Gemyn! Electrum is a well known wallet which is 
 
 Get the version you need!
 
-[Windows] (https://github.com/proyecto-gemyn/electrum-gmn/releases/download/4.2.1/electrum-gmn-4.2.1-setup.exe)
+[Windows](https://github.com/proyecto-gemyn/electrum-gmn/releases/download/4.2.1/electrum-gmn-4.2.1-setup.exe)
 
 [Mac OSX](https://github.com/proyecto-gemyn/electrum-gmn/releases/download/4.2.1/Electrum-GMN-4.2.1.dmg)
 
